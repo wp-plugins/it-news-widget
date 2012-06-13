@@ -10,6 +10,7 @@ A widget to display IT news (about android, smartphones, etc.) feeds on your blo
 == Description ==
 
 A widget to display IT news (about android, smartphones, etc.) feeds on your blog.
+http://www.web-news.pl
 
 Features list:
 
@@ -26,9 +27,9 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload `simple-rss-feeds-widget` directory to the `/wp-content/plugins/` directory
+1. Upload `it-news-widget` directory to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Drag and drop the newly added *Simple RSS Feeds Widget* to any of your sidebars
+1. Drag and drop the newly added *IT News Widget* to any of your sidebars
 1. Configure the widget options
 
 == Screenshots ==
