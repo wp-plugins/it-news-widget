@@ -1,9 +1,9 @@
 === IT News Widget ===
 Contributors: lukasz138
-Tags: widget, widgets, it news, post, posts, blog, wordpress
+Tags: widget, widgets, news, news widget, android news, it news, post, posts, blog, wordpress
 Requires at least: 
 Tested up to: 1.0
-Stable tag: trunk
+Stable tag: 1.0
 
 A widget to display IT news (about android, smartphones, etc.) feeds on your blog.
 
