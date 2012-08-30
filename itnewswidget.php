@@ -159,7 +159,7 @@ class ITNewsWidget_Widget extends WP_Widget
 			$displayedItemsCount = 0;
 			foreach( $displayedItems as $item )
 			{
-				echo( '<li><a title="'.date_i18n( get_option( 'date_format' ), $item->get_date( 'U' ) ).'" href="'.$item->get_permalink().'">'.$item->get_title().'</a>' );
+				echo( '<li><a title="'.date_i18n( get_option( 'date_format' ), $item->get_date( 'U' ) ).'" href="'.$item->get_permalink().'" rel="nofollow">'.$item->get_title().'</a>' );
 				if( $source != 'hidden' )
 					echo( ' <small>(<cite>'.$item->get_feed()->get_title().'</cite>)</small>' );
 				echo( '</li>');

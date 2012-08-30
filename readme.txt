@@ -2,8 +2,8 @@
 Contributors: lukasz138
 Tags: widget, wiadomości IT, IT, widgets, news, news widget, android news, it news, post, posts, blog, wordpress
 Requires at least: 
-Tested up to: 3.3.2
-Stable tag: 1.3
+Tested up to: 3.4.1
+Stable tag: 1.4
 
 Widget wyświetla informacje ze świata IT (android, smartfony, telefony itp.)
 A widget to display IT news (about android, smartphones, etc.) feeds on your blog.
@@ -53,3 +53,8 @@ Fix readme.txt
 
 = 1.3 =
 Fix readme.txt
+
+= 1.4 =
+Change to nofollow links
+
+
