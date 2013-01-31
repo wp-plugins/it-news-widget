@@ -2,7 +2,7 @@
 Contributors: lukasz138
 Tags: widget, wiadomości IT, IT, widgets, news, news widget, android news, it news, post, posts, blog, wordpress
 Requires at least: 
-Tested up to: 3.4.1
+Tested up to: 3.5.1
 Stable tag: 1.4
 
 Widget wyświetla informacje ze świata IT (android, smartfony, telefony itp.)
